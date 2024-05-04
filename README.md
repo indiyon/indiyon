@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jon, lead developer at Indiyon
 - 👀 I’m interested in Web Development as well as App Development
-- 🌱 I’m currently learning Google Cloud Functiona
+- 🌱 I’m currently learning LangChain
 - 💞️ I’m looking to collaborate on ... almost everything. always willing to help.
 - 📫 You can reach me by mail: jon@indiyon.nl
 
